@@ -1,15 +1,12 @@
 {
-  "name": "http-proxy",
-  "version": "1.18.1",
+  "name": "@web-desktop-environment/http-proxy-fork",
+  "version": "1.0.0",
   "repository": {
     "type": "git",
-    "url": "https://github.com/http-party/node-http-proxy.git"
+    "url": "https://github.com/shmuelhizmi/node-http-proxy.git"
   },
   "description": "HTTP proxying for the masses",
-  "author": "Charlie Robbins <charlie.robbins@gmail.com>",
-  "maintainers": [
-    "jcrugzz <jcrugzz@gmail.com>"
-  ],
+  "author": "Shmuel Hizmi - forked from Charlie Robbins <charlie.robbins@gmail.com>",
   "main": "index.js",
   "dependencies": {
     "eventemitter3": "^4.0.0",
